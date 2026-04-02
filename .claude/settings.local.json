@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/personal/**)",
+      "Read(//c/Users/USER/AppData/Roaming/Code/User/**)"
+    ],
+    "additionalDirectories": [
+      "c:\\personal\\com.ubisam.exam1"
+    ]
+  }
+}
